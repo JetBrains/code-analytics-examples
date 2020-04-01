@@ -1,2 +1,2 @@
 # Simpliest Examples for Code Analytics Tests
-code-analytics-examples
+This repo contains basic projects for Code Analytics testing purposes
