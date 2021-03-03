@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import sys
 
 class smallcase:
     def CapsMethod(self, n, d=2):
