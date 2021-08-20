@@ -1,14 +1,14 @@
-package com.jetbrains.sa;
-
 @SuppressWarnings("unused")
 public class BadExceptionNameClass extends RuntimeException {
 }
 
-// Condition is always true
-class Main {
+public class AppStarter {
     public static void main(String[] args) {
-        if (true) {
+        int a ;
+        int b = a;
+        if(true) {
 
         }
+        return;
     }
 }
