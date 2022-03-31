@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-import sys 
-import requests
+import sys
 import psycopg2
 
 requests.post('https://httpbin.org/post', allow_redirects='fail')
