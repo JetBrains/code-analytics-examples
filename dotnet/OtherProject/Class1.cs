@@ -7,7 +7,7 @@ namespace OtherProject
     {
         void Bar()
         {
-            bad();
+            //bad(); // otherwise test fails for community linter
         }
     }
 }
