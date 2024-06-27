@@ -1,0 +1,1 @@
+bootstrap: chmod -R 777 /data/results /data/cache/
