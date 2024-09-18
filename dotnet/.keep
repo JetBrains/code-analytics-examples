@@ -1,5 +1,5 @@
-./RunInspectionTest.sln
-./RunInspectionTest.csproj
-./.gitignore
-./qodana.yaml
-./OtherProject/OtherProject.csproj
+RunInspectionTest.sln
+RunInspectionTest.csproj
+.gitignore
+qodana.yaml
+OtherProject/OtherProject.csproj
